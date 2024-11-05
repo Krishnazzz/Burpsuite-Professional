@@ -19,7 +19,7 @@
 
 - ### Auto Install
 
-      curl https://raw.githubusercontent.com/xiv3r/Burpsuite-Professional/main/install.sh | sudo sh
+      curl https://raw.githubusercontent.com/Krishnazzz/Burpsuite-Professional/main/install.sh | sudo sh
 
 - ### Run
 
